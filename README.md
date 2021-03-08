@@ -1,4 +1,4 @@
-# OpenDesign_Electronics
+# OpenDesign_#Electronics
   Repository for OpenDesign Discord #Electronics channel
   This is a collection of files to support the activities in the channel.
 # Table of Contents
